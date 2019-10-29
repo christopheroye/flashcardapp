@@ -36,3 +36,11 @@ User have ability to cycle through the various cards in the application.
 
 ![flashcard app](https://user-images.githubusercontent.com/50840199/66617701-d35c2380-eb9b-11e9-83a6-3d47081caf11.gif)
 
+## Using the App
+
+Here's how to use the Flashback app.
+
+1. Click on a Card to flip and view Card information.
+2. Click on the (prev) and (next) arrow to view more Cards.
+3. Each card provides a history and fun facts about the React app.
+
