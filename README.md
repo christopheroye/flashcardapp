@@ -29,7 +29,6 @@ User have ability to cycle through the various cards in the application.
 
 * Submitting forms
 * Clicking buttons
-* Scrolling down the page
 * Shuffle cards
 * Flip cards
 * Read card info
